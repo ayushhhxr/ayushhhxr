@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Ayush singh rawat
-
 - 🎓 I'm a 3rd-year B.Tech Computer Science Engineering student  
-- 🚀 Currently building: **Data Analysis Dashboards** using **Python** and **Oracle**  
 - 📍 Based in India | 🌐 Exploring AI/ML, full-stack, data analysis, and automation,
 - 
 - ## 🔧 Tech Stack & Tools
