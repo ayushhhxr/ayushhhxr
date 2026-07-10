@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayush singh rawat
-- 🎓 I'm a 3rd-year B.Tech Computer Science Engineering student  
+- 🎓 I'm a final-year B.Tech Computer Science Engineering student  
 - 📍 Based in India | 🌐 Exploring AI/ML, data analysis, and automation,
 - 
 - ## 🔧 Tech Stack & Tools
