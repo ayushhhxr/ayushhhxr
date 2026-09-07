@@ -49,8 +49,6 @@
 
 `Python` `AI/ML` `LLMs` `RAG` `FastAPI` `React`
 
-[![View Project](https://img.shields.io/badge/View%20Project-2F81F7?style=for-the-badge&logo=github&logoColor=white)](YOUR_ANNSETU_REPO)
-
 ---
 
 ### 💎 Sterling Kart
@@ -63,8 +61,6 @@
 
 `Node.js` `PostgreSQL` `Razorpay` `Shiprocket` `Redis` `WhatsApp Cloud API`
 
-[![View Project](https://img.shields.io/badge/View%20Project-2F81F7?style=for-the-badge&logo=github&logoColor=white)](YOUR_STERLING_KART_REPO)
-
 ---
 
 ### 🔬 GateFlow
@@ -76,8 +72,6 @@
 
 `Python` `Machine Learning` `Scikit-learn` `NumPy` `Pandas` `AI`
 
-[![View Project](https://img.shields.io/badge/View%20Project-2F81F7?style=for-the-badge&logo=github&logoColor=white)](YOUR_GATEFLOW_REPO)
-
 ---
 
 ### 🕉️ Aghorify
@@ -88,8 +82,6 @@
 **Tech Stack**
 
 `React` `Vite` `Supabase` `Instamojo`
-
-[![View Project](https://img.shields.io/badge/View%20Project-2F81F7?style=for-the-badge&logo=github&logoColor=white)](YOUR_AGHORIFY_REPO)
 
 ---
 
